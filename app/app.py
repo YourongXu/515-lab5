@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load model once at startup
 model = load_model("wand_model.h5")
-gesture_labels = ["V", "O", "Z", "S"]  # Update this to match your implementation
+gesture_labels = ["V", "O", "A", "S"]  # Update this to match your implementation
 
 @app.route("/", methods=["GET"])
 def home():
