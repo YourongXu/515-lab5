@@ -20,6 +20,7 @@ The lab is divided into the following major components:
 
 ## 📁 Repository Structure
 
+.
 ├── ESP32_to_cloud/
 │ └── ESP32_to_cloud.ino # Arduino code for collecting sensor data
 │
@@ -39,3 +40,4 @@ The lab is divided into the following major components:
 │ └── register_model.ipynb # Azure ML registration notebook
 │
 └── README.md # Lab summary and usage instructions
+
