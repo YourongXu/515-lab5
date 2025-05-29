@@ -19,7 +19,7 @@ The lab is divided into the following major components:
 - Model registration and versioning are handled via Azure ML using `register_model.ipynb`.
 
 ## 📁 Repository Structure
-
+```
 .
 ├── ESP32_to_cloud/
 │ └── ESP32_to_cloud.ino # Arduino code for collecting sensor data
@@ -39,5 +39,5 @@ The lab is divided into the following major components:
 │ ├── train.py # Script to train the ML model
 │ └── register_model.ipynb # Azure ML registration notebook
 │
-└── README.md # Lab summary and usage instructions
-
+└── README.md # Lab summary and usage instructions、、、
+```
